@@ -1,0 +1,36 @@
+<svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="14" height="24" fill="#B0B0B0"/>
+<g id="1.TRANG CH&#225;&#187;&#166;">
+<rect width="1440" height="6628" transform="translate(-1027 -6496)" fill="white"/>
+<g id="Footers" filter="url(#filter0_d_0_1)">
+<rect width="1440" height="347" transform="translate(-1027 -215)" fill="white"/>
+<g id="Frame 160">
+<g id="Frame 156">
+<g id="Frame 158">
+<g id="Frame 155">
+<g id="Social Media / Facebook">
+<g id="Capa 2">
+<g id="ELEMENTS">
+<path id="Vector" d="M12.6159 13.4992L13.2998 9.15772H9.08691V6.33578C9.08691 5.14867 9.67507 3.98869 11.5558 3.98869H13.4981V0.29169C12.367 0.111481 11.2241 0.0139881 10.0786 0C6.61118 0 4.34745 2.08253 4.34745 5.84737V9.15772H0.503906V13.4992H4.34745V24H9.08691V13.4992H12.6159Z" fill="#337FFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-1033" y="-229" width="1460" height="367" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="4" dy="-4"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.636667 0 0 0 0 0.636667 0 0 0 0 0.636667 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>
