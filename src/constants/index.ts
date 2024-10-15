@@ -368,12 +368,12 @@ export const seminarImageList = [
 ];
 
 export const clinicOfficeImagesList = [
-  "pk5",
-  "pk6",
   "pk4",
-  "pk1",
-  "pk2",
   "pk3",
+  "pk2",
+  "pk6",
+  "pk5",
+  "pk1",
 ];
 
 export const knowledgeFilterTags = [
