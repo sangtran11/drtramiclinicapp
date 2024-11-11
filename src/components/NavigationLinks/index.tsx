@@ -28,7 +28,7 @@ const menuLinks = [
   { id: 3, label: "dịch vụ", path: "/dich-vu" },
   { id: 4, label: "kiến thức", path: "/kien-thuc" },
   { id: 5, label: "cửa hàng", path: "/cua-hang" },
-  { id: 6, label: "khóa học", path: "/khoa-hoc" },
+  // { id: 6, label: "khóa học", path: "/khoa-hoc" },
 ];
 
 const NavigationLinks = () => {

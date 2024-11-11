@@ -9,7 +9,7 @@ import {
   SearchResultPage,
   KnowledgeDetailPage,
   ServiceDetailPage,
-  CoursesPage,
+  // CoursesPage,
 } from "./pages";
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
         <Route path="kien-thuc/:id" element={<KnowledgeDetailPage />} />
         <Route path="cua-hang" element={<StorePage />} />
         <Route path="dat-lich-hen" element={<BookingFormPage />} />
-        <Route path="khoa-hoc" element={<CoursesPage />} />
+        {/* <Route path="khoa-hoc" element={<CoursesPage />} /> */}
         <Route path="ket-qua-tim-kiem" element={<SearchResultPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>
