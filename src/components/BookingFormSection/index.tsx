@@ -70,6 +70,14 @@ const useStyles = createStyles((theme) => ({
       opacity: 1,
     },
   },
+  inputCustom: {
+    '.mantine-Input-input': {
+      fontSize: '16px'
+    },
+    ':mantine-Select-input': {
+      fontSize: '16px'
+    }
+  }
 }));
 
 const BookingFormSection = () => {
@@ -148,8 +156,9 @@ const BookingFormSection = () => {
       service: data.service.join(", ") || "/",
     };
     emailjs
-      .send("service_w3732ka", "template_jrfb7gn", payload, "PY52_wyUPS3oyOhgx")
+      .send("service_xfw5flg", "template_429rli6", payload, "1E7riV1mIjSfKgQw3")
       // .send("service_bxuo249", "template_dksu16l", payload, "-tb6KuwG144fN1BiM") // email: sontran
+      // serviceId, templateId, payload, publicKey
       .then(
         (result) => {
           console.log("send:", result.text);
@@ -204,6 +213,7 @@ const BookingFormSection = () => {
                 {input.type === "text" && (
                   <Grid.Col span={12}>
                     <TextInput
+                      className={classes.inputCustom}
                       key={index}
                       name={input.name}
                       control={control}
@@ -219,6 +229,7 @@ const BookingFormSection = () => {
                 {input.type === "number" && (
                   <Grid.Col span={12}>
                     <NumberInput
+                      className={classes.inputCustom}
                       key={index}
                       type="number"
                       hideControls
@@ -236,6 +247,7 @@ const BookingFormSection = () => {
                 {input.type === "dateInput" && (
                   <Grid.Col lg={6}>
                     <DateInput
+                      className={classes.inputCustom}
                       clearable
                       defaultValue={null}
                       control={control}
@@ -258,6 +270,7 @@ const BookingFormSection = () => {
                       defaultValue=""
                       render={({ field }) => (
                         <Select
+                          className={classes.inputCustom}
                           key={index}
                           {...field}
                           clearable
