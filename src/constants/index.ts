@@ -365,6 +365,17 @@ export const seminarImageList = [
   "hoithao7.png",
   "hoithao8.png",
   "hoithao9.jpg",
+  "hoithao10.jpg",
+  "hoithao11.jpg",
+  "hoithao12.jpg",
+  "hoithao13.jpg",
+  "hoithao14.jpg",
+  "hoithao15.jpg",
+  "hoithao16.jpg",
+  "hoithao17.jpg",
+  "hoithao18.jpg",
+  "hoithao19.jpg",
+  "hoithao20.jpg",
 ];
 
 export const clinicOfficeImagesList = [
@@ -4133,6 +4144,328 @@ export const knowledgeArticleList = [
       </div>
     `,
   },
+  {
+    id: 26,
+    searchTag:
+      "một số phương pháp giảm mỡ bụng hiện nay mot so phuong phap giam mo bung hien nay",
+    title: "Một số phương pháp giảm mỡ bụng hiện nay",
+    isOutstanding: false,
+    isShowBadge: true,
+    badgeLabel: "làm đẹp",
+    subTitle:
+      "Hiện nay nhu cầu điều trị và loại bỏ mỡ thừa, tạo dáng cơ thể đang ngày càng tăng cao vì nhiều lý do trong đó chủ yếu là vấn đề thẩm mỹ ...",
+    imageUrl: "/images/logo_kien_thuc/lamdep15.jpg",
+    tagId: 3,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Làm Đẹp
+        </span>
+      </div>
+      <div class="mb-5">
+        Bác Sĩ Chuyên khoa II Da Liễu Nguyễn Lê Trà Mi, Giảng viên Đại Học Y Dược TP.Hồ Chí Minh
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep15.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Hiện nay nhu cầu điều trị và loại bỏ mỡ thừa, tạo dáng cơ thể đang ngày càng tăng cao vì nhiều lý do trong đó chủ yếu là vấn đề thẩm mỹ. Mặc dù hút mỡ là một phương pháp loại bỏ mỡ thừa hiệu quả, an toàn khi thực hiện trong bệnh viện, tuy nhiên, hút mỡ vẫn là một thủ thuật xâm lấn và tiềm ẩn những nguy cơ liên quan đến phẫu thuật. Trong những năm gần đây, ngành thẩm mỹ nội khoa đã phát triển vượt bậc và ứng dụng các phương pháp hủy mỡ không xâm lấn nhằm giảm thiểu các rủi ro bất lợi và rút ngắn đáng kể thời gian phục hồi sau thủ thuật. Bài viết này sẽ đề cập chi tiết đến một số phương pháp giảm mỡ bụng an toàn và ít xâm lấn hiện nay.
+      </div>
+      <p class="font-bold text-xl mb-3">1. Tác hại của mỡ bụng</p>
+      <div class="mb-5 pl-3">
+        Tình trạng tăng quá mức lượng mỡ trong cơ thể, đặc biệt là mỡ bụng, có thể gây ra nhiều vấn đề sức khỏe nghiêm trọng. Các nhà nghiên cứu nhận thấy ở những người béo phì có sự suy giảm khả năng hấp thu glucose của cơ để đáp ứng với insulin. Do đó, lượng mỡ dư thừa ở bệnh nhân béo phì có nguy cơ dẫn đến nhiều bệnh lý chuyển hóa như đái tháo đường, mỡ máu, cao huyết áp và một số bệnh lý tim mạch khác. Vì vậy, điều trị giảm mỡ không những để cải thiện vóc dáng mà còn nhằm mục đích phòng ngừa các bệnh lý chuyển hóa kể trên.
+      </div>
+      <p class="font-bold text-xl mb-3">2. HIFU (High-Intensity Focused Ultrasound)</p>
+      <div class="mb-5 pl-3">
+        Công nghệ HIFU (High-Intensity Focused Ultrasound) là một phương pháp giảm mỡ không xâm lấn hoạt động dựa trên nguyên lý sử dụng sóng siêu âm hội tụ cường độ cao để tác động chính xác vào mô mỡ dưới da. Khi được hội tụ tại một điểm nhất định, năng lượng siêu âm tạo ra nhiệt độ cao (50-60°C) tại lớp mỡ dưới da, dẫn đến hiện tượng hoại tử đông và kích hoạt quá trình chết tế bào theo chương trình (apoptosis) của tế bào mỡ mà không gây tổn thương đến các mô xung quanh. Các tế bào mỡ bị phá hủy sau đó sẽ được cơ thể loại bỏ một cách tự nhiên thông qua hệ thống bạch huyết, kéo dài khoảng 8-12 tuần sau điều trị. Song song đó, nhiệt năng còn tác động đến các sợi collagen ở lớp trung bì, kích thích quá trình tăng sinh và tái cấu trúc collagen, góp phần cải thiện độ săn chắc và đàn hồi của da tại vùng điều trị.
+      </div>
+      <div class="mb-5 pl-3">
+        Tuy nhiên, HIFU cũng có những nhược điểm và tác dụng phụ cần được lưu ý. Hiệu quả điều trị của phương pháp này thường không tức thì, mà cần chờ từ 1-3 tháng để thấy rõ sự thay đổi do quá trình loại bỏ mỡ diễn ra từ từ. Điều này đòi hỏi người dùng phải kiên nhẫn và tuân thủ lịch theo dõi sau điều trị. Các tác dụng phụ đa phần là nhẹ và thoáng qua, thường gặp gồm đau nhức vùng điều trị, sưng nhẹ và bầm tím, thường kéo dài từ vài ngày đến 2 tuần và không cần xử trí y tế. Một số biện pháp hỗ trợ như chườm lạnh, dùng gel làm mát hoặc kem dưỡng có thể rút ngắn thời gian hồi phục. Đáng chú ý, các biến chứng nghiêm trọng như bỏng, lõm da hay hoại tử mô hầu như không được ghi nhận trong các nghiên cứu lâm sàng, cho thấy tính an toàn cao của công nghệ này.
+      </div>
+      <p class="font-bold text-xl mb-3">3. Radiofrequency (RF)</p>
+      <div class="mb-5 pl-3">
+        Radiofrequency (RF) là công nghệ thẩm mỹ không xâm lấn được ứng dụng rộng rãi trong việc giảm mỡ khu trú, nâng cơ và trẻ hóa da. Ưu điểm vượt trội của phương pháp này là không cần gây mê, không xâm lấn mô sâu và không cần thời gian nghỉ dưỡng dài. Phương pháp này sử dụng sóng vô tuyến tác động trực tiếp đến lớp trung bì và mô mỡ dưới da, giúp phá vỡ cấu trúc tế bào mỡ và kích thích quá trình đào thải mỡ tự nhiên của cơ thể. Năng lượng RF được chuyển thành nhiệt, làm tăng nhiệt độ tại vùng điều trị lên khoảng 40–45°C – đủ để kích hoạt ly giải mỡ mà vẫn đảm bảo an toàn cho các mô lân cận. Các tế bào mỡ bị phá hủy sẽ được cơ thể hấp thu và loại bỏ thông qua hệ bạch huyết. Quá trình này đồng thời thúc đẩy trao đổi chất tại vùng điều trị, góp phần làm thon gọn vùng cơ thể có tích mỡ lâu năm. Ngoài ra, nhiệt năng còn tác động đến collagen tại lớp trung bì, làm co rút và tái sắp xếp các sợi collagen hiện có, đồng thời kích thích nguyên bào sợi tăng sinh collagen mới. Nhờ đó, RF không chỉ giúp giảm mỡ mà còn cải thiện độ săn chắc và đàn hồi của da, hạn chế tình trạng chảy xệ sau giảm mỡ – một điểm nổi bật khi so với các công nghệ giảm mỡ khác. 
+      </div>
+      <div class="mb-5 pl-3">
+        Tuy nhiên, RF vẫn tồn tại một số tác dụng phụ và hạn chế nhất định. Phản ứng thường gặp bao gồm cảm giác châm chích nhẹ, nóng rát vùng điều trị, da ửng đỏ hoặc sưng nhẹ – các biểu hiện này thường thoáng qua và tự biến mất sau 24–48 giờ. Một số ít trường hợp có thể gặp đau nhẹ hoặc cảm giác tê tại chỗ, nhưng hiếm khi kéo dài. Nhược điểm của RF bao gồm hiệu quả không tức thì – do cơ thể cần thời gian để đào thải mỡ và kích thích collagen – và đòi hỏi phải thực hiện theo liệu trình lặp lại. Mỗi buổi điều trị thường cách nhau khoảng 1 tuần và hiệu quả tích lũy theo thời gian. Việc duy trì kết quả sau điều trị bằng RF phụ thuộc nhiều vào lối sống, chế độ ăn và vận động. Do đó, khách hàng được khuyến khích duy trì chế độ ăn giàu chất xơ, hạn chế đường và chất béo bão hòa, uống đủ nước và duy trì vận động nhẹ nhàng (đi bộ, đạp xe, yoga...) để hỗ trợ quá trình đào thải mỡ cũng như duy trì kết quả thẩm mỹ.
+      </div>
+      <p class="font-bold text-xl mb-3">4. Tiêm giảm mỡ (Mesotherapy)</p>
+      <div class="mb-5 pl-3">
+        Tiêm tiêu mỡ là một thủ thuật xâm lấn tối thiểu được sử dụng ngày càng phổ biến trong điều trị mỡ thừa khu trú, đặc biệt ở những vùng khó tác động bằng chế độ ăn kiêng và luyện tập thể dục như vùng cằm, cánh tay, bụng, đùi. Phương pháp này hoạt động dựa trên việc tiêm trực tiếp các hoạt chất tiêu mỡ vào mô mỡ dưới da, giúp phá hủy tế bào mỡ và kích thích quá trình phân giải lipid. Về cơ chế tác động, tiêm tiêu mỡ chủ yếu vận hành theo hai hướng: phá hủy tế bào mỡ và thúc đẩy quá trình ly giải mỡ. Trong đó, acid deoxycholic – một thành phần của acid mật, có khả năng phá vỡ màng tế bào mỡ, gây hoại tử tế bào, tạo ra phản ứng viêm tại chỗ và làm tăng tổng hợp collagen. Bên cạnh đó, phosphatidylcholine hỗ trợ giảm thể tích mô mỡ qua cơ chế gây chết tế bào theo chương trình, đồng thời cải thiện tình trạng mỡ tích tụ không đều. Một số hoạt chất khác như aminophylline, isoproterenol, yohimbine và forskolin đóng vai trò kích thích enzyme lipase, góp phần tăng cường quá trình phân giải lipid.
+      </div>
+      <div class="mb-5 pl-3">
+        Tuy nhiên, tiêm tiêu mỡ cũng không tránh khỏi các tác dụng phụ và hạn chế. Các triệu chứng thường gặp nhất bao gồm sưng đau, châm chích, bầm tím và cảm giác khó chịu tại vị trí tiêm, thường kéo dài từ vài ngày sau tiêm. Một số ít bệnh nhân có thể gặp các nốt dưới da do phản ứng viêm tạm thời hoặc xơ hóa mô mỡ sau ly giải. Về mặt hạn chế, tiêm tiêu mỡ không thích hợp cho các trường hợp béo phì toàn thân hoặc mong muốn giảm mỡ nhanh chóng, vì hiệu quả điều trị cần thời gian để biểu hiện rõ rệt (thường sau 6–8 tuần). Phương pháp này đòi hỏi nhiều lần điều trị và tuân thủ chặt chẽ về theo dõi cũng như chăm sóc sau thủ thuật để đạt được hiệu quả tối ưu.
+      </div>
+      <p class="font-bold text-xl mb-3">5. Kết Luận</p>
+      <div class="mb-5 pl-3">
+        Mỡ bụng không chỉ ảnh hưởng đến thẩm mỹ mà còn có thể liên quan đến nhiều vấn đề sức khỏe tiềm ẩn. Việc điều trị mỡ bụng đòi hỏi hiểu rõ nguyên nhân và chọn phương pháp phù hợp. Các phương pháp hiện đại như tiêm giảm mỡ, HIFU, RF,… đều mang lại hiệu quả cao trong việc giảm nọng mặt. Tuy nhiên, để duy trì kết quả lâu dài, cần kết hợp với chế độ dinh dưỡng và luyện tập hợp lý. Để đảm bảo an toàn và tối ưu hiệu quả, bạn nên đến phòng khám da liễu uy tín để được tư vấn và thăm khám chuyên sâu, nhằm lựa chọn phương pháp điều trị mỡ bụng phù hợp nhất.
+      </div>
+    `,
+  },
+  {
+    id: 27,
+    searchTag:
+      "Công nghệ Vi kim xung RF đời mới SylfirmX đã có mặt tại Dr. Trà Mi Skin Clinic cong nghe vi kim xung rf doi moi sylfirmx da co mat tai dr tra mi skin clinic",
+    title: "Công nghệ Vi kim xung RF đời mới SylfirmX đã có mặt tại Dr. Trà Mi Skin Clinic.",
+    isOutstanding: false,
+    isShowBadge: true,
+    badgeLabel: "làm đẹp",
+    subTitle:
+      "Thiết bị Sylfirm X được nghiên cứu và phát triển bởi tập đoàn ViOL tại Hàn Quốc ...",
+    imageUrl: "/images/logo_kien_thuc/lamdep16.jpg",
+    tagId: 3,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Làm Đẹp
+        </span>
+      </div>
+      <div class="mb-5 text-center">
+        Công nghệ Vi kim xung RF đời mới SylfirmX đã có mặt tại <b>Dr. Trà Mi Skin Clinic.</b>
+      </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep16.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5 text-center">
+        <b>Lễ chuyển giao công nghệ RF Vi kim Sylfirm tại Phòng khám BSCKII Nguyễn Lê Trà Mi.</b>
+      </div>
+      <div class="mb-5">
+        Thiết bị Sylfirm X được nghiên cứu và phát triển bởi tập đoàn ViOL tại Hàn Quốc. Đây là một trong những sản phẩm đi đầu trong lĩnh vực làm đẹp trên thế giới. Thiết bị sử dụng những đầu kim mạ vàng 24K, được thiết kế chính xác tới từng micromet tác động tới lớp trung bì bằng năng lượng RF giúp điều trị hiệu quả các vấn đề về da như nám, sẹo lõm, trẻ hóa và tái tạo da,...
+      </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep17.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Với công nghệ vi kim điện lưỡng cực, Sylfirm X có thể tác động đến tất cả các lớp da với năng lượng đồng nhất, từ đó giúp tối đa hóa kết quả điều trị. Thiết bị được trang bị 2 chế độ PW (Pulsed Wave) và CW (Continuous Wave). Chế độ PW điều trị các tình trạng như nám, tăng sắc tố sau viêm, mụn trứng cá đỏ. Chế độ CW giúp làm săn chắc da, trẻ hóa toàn diện. Điều này giúp Sylfirm X được đánh giá là một trong những thiết bị làm đẹp toàn diện tiên tiến trên thế giới.
+      </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep13.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5 text-center">
+        <b>Bác sĩ Trà Mi điều trị sẹo rỗ cho khách hàng bằng công nghệ RF Vi kim sóng kép Sylfirm X</b>
+      </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/damun1.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        BSCKII Nguyễn Lê Trà Mi chia sẻ tại lễ chuyển giao: “Tại đây, chúng tôi luôn đặt lợi ích và sự hài lòng của khách hàng lên đầu, tôi và đội ngũ của mình luôn mong muốn mang lại những giải pháp tốt nhất, những công nghệ hiện đại nhất cho khách hàng. Vì vậy, tôi quyết định bổ sung thiết bị vi kim xung RF bước sóng kép Sylfirm X - công nghệ được FDA approved trong điều trị các tình trạng sẹo, sẹo rỗ, và trẻ hoá da vào danh mục thiết bị tại cơ sở, nhằm mang lại hiệu quả điều trị tốt nhất cho khách hàng”.
+      </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep18.jpg" alt="knowledge-detail" />
+      </div>
+    `,
+  },
+  {
+    id: 28,
+    searchTag:
+      "tại sao không thể điều trị tàn nhang tận gốc? tai sao khong the dieu tri tan nhang tan goc",
+    title: "Tại sao không thể điều trị tàn nhang tận gốc?",
+    isOutstanding: false,
+    isShowBadge: true,
+    badgeLabel: "làm đẹp",
+    subTitle:
+      "Nhiều người nghĩ rằng tàn nhang có thể “loại bỏ” hoàn toàn, nhưng thực tế không đúng như vậy ...",
+    imageUrl: "/images/logo_kien_thuc/lamdep19.jpg",
+    tagId: 3,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Làm Đẹp
+        </span>
+      </div>
+      <div class="mb-5">
+        Giải đáp bởi Bác sĩ Chuyên Khoa II Nguyễn Lê Trà Mi, Giảng viên Đại Học Y Dược Thành phố Hồ Chí Minh.
+      </div>
+      <div class="mb-5">
+        Nhiều người nghĩ rằng tàn nhang có thể “loại bỏ” hoàn toàn, nhưng thực tế không đúng như vậy! Tàn nhang có thể tái phát và không thể điều trị tận gốc do yếu tố gen, nhưng bạn <b>hoàn toàn có thể kiểm soát và loại bỏ tàn nhang khi chúng xuất hiện!</b>
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep19.jpg" alt="knowledge-detail" />
+      </div>
+      <p class="font-bold text-xl mb-3">1. Tàn nhang hình thành như thế nào?</p>
+      <div class="mb-5 pl-3">
+        <b>Gen di truyền và tia UV từ ánh nắng mặt trời</b> là hai yếu tố chính thúc đẩy tiến trình hình thành tàn nhang. Đặc biệt, tàn nhang phổ biến hơn ở những người có làn da sáng màu.
+        Tuy nhiên, đến nay khoa học vẫn chưa thể hiểu rõ hoàn toàn <b>cơ chế hình thành</b> của tàn nhang — đó là lý do tại sao không thể điều trị "dứt điểm".
+      </div>
+      <p class="font-bold text-xl mb-3">2. Tàn nhang là gì?</p>
+      <div class="mb-5 pl-3">
+        Là những đốm nhỏ màu nâu nhạt đến đậm, có thể lên đến vài mm, thường xuất hiện rải rác hoặc kết thành mảng. Dưới tác động của ánh nắng, tàn nhang sẽ <b>đậm màu hơn vào mùa hè </b>và <b>nhạt dần vào mùa đông.</b>
+        Thường gặp nhất ở độ tuổi từ <b>10-30</b>, tàn nhang không phát triển kích thước theo thời gian nhưng có thể xuất hiện thêm đốm
+      </div>
+      <p class="font-bold text-xl mb-3">3. Cập nhật Phương pháp điều trị tàn nhang hiệu quả?</p>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep20.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Tin vui là tàn nhang nằm ở lớp nông của da, vì vậy hoàn toàn có thể cải thiện và loại bỏ tàn nhang khi chúng xuất hiện bằng các phương pháp:
+      </div>
+      <div class="mb-3 pl-3">
+        - <b>Chống nắng kỹ mỗi ngày, thoa kem chống nắng chỉ số SPF tối thiếu 30+</b>
+      </div>
+      <div class="mb-3 pl-3">
+        - <b>Dùng sản phẩm bôi làm sáng da </b>chứa cysteamine, vitamin C, AHA, azelaic acid, retinoids,...
+      </div>
+      <div class="mb-5 pl-3">
+        - <b>Điều trị bằng laser</b> - phương pháp điều trị tàn nhang hiệu quả, thời gian điều trị ngắn. Chỉ sau vài lần những nốt tàn nhang đã cải thiện rất nhiều.
+      </div>
+      <div class="mb-5">
+        Và nếu bạn đang gặp phải vấn đề sắc tố da như tàn nhang, nám da, thâm,.. thì đừng ngần ngại inbox ngay cho Dr. Mi để được tư vấn tận tâm bạn nhé!
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep21.jpg" alt="knowledge-detail" />
+      </div>
+    `,
+  },
+  {
+    id: 29,
+    searchTag:
+      "chăm sóc và điều trị sẹo lồi tại nhà bằng các sản phẩm dược mỹ phẩm cham soc va dieu tri seo loi tai nha bang cac san pham duoc my pham",
+    title: "Chăm sóc và điều trị sẹo lồi tại nhà bằng các sản phẩm dược mỹ phẩm",
+    isOutstanding: false,
+    isShowBadge: true,
+    badgeLabel: "làm đẹp",
+    subTitle:
+      "Sẹo lồi là tình trạng tăng sinh quá mức mô sợi sau chấn thương da như phẫu thuật, bỏng, trầy xước, viêm da hoặc mụn trứng cá, hoặc có thể xảy ra tự phát ...",
+    imageUrl: "/images/logo_kien_thuc/lamdep19.jpg",
+    tagId: 3,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Làm Đẹp
+        </span>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep22.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5 text-center">
+        Bác sĩ Chuyên khoa II Da Liễu Nguyễn Lê Trà Mi, Giảng viên Đại học Y Dược TP.Hồ Chí Minh.
+      </div>
+      <div class="mb-5 text-xl">
+        <b>Sẹo lồi là gì?</b>
+      </div>
+      <div class="mb-5">
+        Sẹo lồi là tình trạng tăng sinh quá mức mô sợi sau chấn thương da như phẫu thuật, bỏng, trầy xước, viêm da hoặc mụn trứng cá, hoặc có thể xảy ra tự phát. Cơ chế hình thành sẹo lồi do rối loạn quá trình lành thương, trong đó các nguyên bào sợi sản xuất quá mức collagen, dẫn đến mô sẹo phát triển quá mức cả về độ dày lẫn diện tích, vượt ra ngoài ranh giới của vết thương ban đầu. Sẹo lồi thường có màu hồng hoặc đỏ sậm, bề mặt nhẵn bóng, gồ cao hơn da lành, cứng, đôi khi gây ngứa hoặc đau.
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep23.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Một số vùng da như ngực, vai, lưng, dái tai, cằm và đầu gối có nguy cơ cao hình thành sẹo lồi do đặc tính da căng hoặc dễ chấn thương. Những người có cơ địa sẹo lồi hoặc có người thân bị sẹo lồi cũng dễ gặp phải tình trạng này hơn.
+      </div>
+      <div class="mb-5">
+         Sẹo lồi không chỉ gây mất thẩm mỹ mà còn ảnh hưởng đến tâm lý, chất lượng cuộc sống và đôi khi cả chức năng vận động. Mặc dù các biện pháp điều trị chuyên sâu như tiêm thuốc, laser hay phẫu thuật mang lại hiệu quả rõ rệt, nhưng việc chăm sóc sẹo tại nhà bằng các sản phẩm dược mỹ phẩm đóng vai trò quan trọng, đặc biệt trong giai đoạn sớm hoặc điều trị duy trì.
+      </div>
+      <div class="mb-5">
+        Một trường hợp cần phân biệt với sẹo lồi là sẹo phì đại. Sự khác nhau cơ bản là sẹo phì đại thường giới hạn trong bờ vết thương ban đầu, triệu chứng có thể ngứa nhẹ và ít khi đau, sẹo tự cải thiện dần theo thời gian.
+      </div>
+      <div class="mb-5 text-xl">
+        <b>1. Có những phương pháp điều trị sẹo lồi nào?</b>
+      </div>
+      <div class="mb-5 pl-3">
+        Sẹo lồi có thể được điều trị bằng nhiều phương pháp, tùy theo mức độ và vị trí sẹo. Phổ biến nhất là sử dụng các chế phẩm tại nhà. Với sẹo dày, bác sĩ có thể chỉ định tiêm corticosteroid, 5-FU hoặc botulinum toxin A để ức chế sự tăng sinh mô xơ. Ngoài ra, laser mạch máu có thể được sử dụng để làm giảm lưu lượng máu trong sẹo, từ đó giảm độ đậm màu của sẹo và giảm triệu chứng ngứa. Các biện pháp khác có thể được sử dụng như laser phân đoạn, phẫu đông, xạ trị và phẫu thuật. 
+      </div>
+      <div class="mb-5 text-xl">
+        <b>2. Các hoạt chất bôi tại chỗ có hiệu quả trong sẹo lồi</b>
+      </div>
+      <div class="mb-3 pl-3">
+        <b>2.1 Silicone (dạng gel hoặc miếng dán)</b>
+      </div>
+      <div class="mb-5 pl-4">
+        Silicone là hoạt chất được khuyến cáo hàng đầu trong điều trị và dự phòng sẹo lồi. Dưới dạng gel hoặc miếng dán, silicone hoạt động như một hàng rào bán thấm giúp duy trì độ ẩm lý tưởng cho vùng da tổn thương, giảm mất nước qua biểu bì, từ đó làm chậm quá trình tăng sinh nguyên bào sợi và tổng hợp collagen quá mức. Ngoài ra, silicone còn giúp làm mềm mô sẹo, giảm đỏ, giảm ngứa và cải thiện tính đàn hồi của da. Đặc biệt, ở dạng miếng dán silicone, áp lực có vai trò kích thích thụ thể cơ học giúp điều hoà sản xuất chất nền ngoại nào, đồng thời gây thiếu máu cục bộ dẫn đến thoái hoá collagen, thay đổi hoạt động nguyên bào sợi và kích thích giải phóng các chất điều hoà quá trình sản xuất collagen. 
+      </div>
+      <div class="mb-5 pl-4">
+        Nhiều nghiên cứu lâm sàng cho thấy, sử dụng gel silicone hoặc miếng dán silicone từ 12-24 giờ mỗi ngày trong tối thiểu 3 tháng giúp làm phẳng, làm mềm và giảm đỏ rõ rệt sẹo lồi.
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep24.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3 pl-3">
+        <b>2.2 Vitamin C</b>
+      </div>
+      <div class="mb-5 pl-4">
+        Vitamin C là chất chống oxy hóa mạnh, đóng vai trò trong tất cả các giai đoạn lành thương:
+      </div>
+      <ul class="mb-3 pl-12">
+        <li class="list-disc mb-2">
+          Trong pha viêm, vitamin C cần thiết trong quá trình chết tế bào và dọn dẹp bạch cầu đa nhân
+        </li>
+        <li class="list-disc mb-2">
+          Trong pha tân sinh, fibrolast sản xuất collagen cần các yếu tố dinh dưỡng như vitamin C, đồng, sắt
+        </li>
+        <li class="list-disc mb-2">
+          Vitamin C giúp trung hoà gốc tự do, giảm viêm
+        </li>
+        <li class="list-disc mb-2">
+          Vitamin C cũng làm sáng vùng da sẹo, giảm hiện tượng tăng sắc tố sau viêm.
+        </li>
+      </ul>
+      <div class="mb-3 pl-3">
+        <b>2.3 Hyaluronic acid</b>
+      </div>
+      <div class="mb-5 pl-4">
+        HA là hoạt chất dưỡng ẩm phổ biến trong nhiều vấn đề da liễu và thẩm mỹ. Trong giai đoạn sớm của lành thương, môi trường ẩm giúp các tế bào thượng bì di chuyển nhanh hơn, kích thích tân tạo mô và giảm nguy cơ hình thành sẹo. Ở giai đoạn trưởng thành của mô sẹo, duy trì độ ẩm thích hợp giúp làm mềm mô xơ, giảm co kéo và hạn chế cảm giác căng tức, khó chịu.
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep25.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3 pl-3">
+        <b>2.4 Các yếu tố tăng trưởng</b>
+      </div>
+      <div class="mb-5 pl-4">
+        Các sản phẩm chứa yếu tố tăng trưởng như EGF (Epidermal Growth Factor) hoặc FGF (Fibroblast Growth Factor) giúp kích thích tái tạo tế bào da, thúc đẩy sự phục hồi mô và điều hòa quá trình tổng hợp collagen. Những thành phần này thường được dùng ở giai đoạn đầu, sau khi vết thương đã lành bề mặt, nhằm tối ưu quá trình tái tạo biểu mô và ngăn chặn sự tăng sinh mô sợi bất thường.
+      </div>
+      <div class="mb-3 pl-3">
+        <b>2.5 Chiết xuất thảo dược</b>
+      </div>
+      <div class="mb-5 pl-4">
+        Chiết xuất hành tây có khả năng ức chế viêm và giảm tăng sinh nguyên bào sợi - yếu tố chính trong hình thành sẹo lồi. Nhiều sản phẩm kem bôi sẹo hiện nay kết hợp hành tây với các thành phần làm dịu da như allantoin để tăng hiệu quả điều trị. 
+      </div>
+      <div class="mb-5 pl-4">
+        Chiết xuất lô hội chứa nhiều chất dinh dưỡng, vitamin, khoáng chất, hợp chất chống oxi hoá giúp giảm viêm, sưng, đau và ngứa, giữ ẩm, tái tạo tế bào
+      </div>
+      <div class="mb-5 pl-4">
+        Các chiết xuất từ thiên nhiên khác như rau má, trà xanh... có đặc tính chống oxy hóa, làm dịu, hỗ trợ phục hồi da, giảm đỏ, giảm ngứa và kích thích quá trình tái tạo mô mà không gây kích ứng mạnh. Với đặc tính an toàn và dễ dung nạp, đây vẫn là lựa chọn phù hợp cho chăm sóc da lâu dài tại nhà.
+      </div>
+      <div class="mb-5 text-xl">
+        <b>3. Những điều cần lưu ý khi chăm sóc sẹo lồi tại nhà</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep26.jpg" alt="knowledge-detail" />
+      </div>
+      <ul class="mb-3 pl-12">
+        <li class="list-disc mb-2">
+          Bắt đầu càng sớm càng tốt: ngay khi vết thương đã lành hoàn toàn, không còn rỉ dịch hay chảy máu. Ngoài ra, sillicone đã được chứng minh là có thể thoa ngay sau khi chấn thương hoặc phẫu thuật.
+        </li>
+        <li class="list-disc mb-2">
+          Kiên trì sử dụng sản phẩm điều trị đều đặn trong ít nhất 3 đến 6 tháng, tần suất ngày 2 lần (sáng - tối). Nếu dùng miếng dán silicone, nên đắp liên tục 12-24h/ngày.
+        </li>
+        <li class="list-disc mb-2">
+          Chống nắng kỹ lưỡng (SPF ≥ 50), đặc biệt vùng sẹo phơi nắng như mặt, cổ, tay chân. Ánh nắng có thể làm tăng sắc tố vết sẹo và khiến sẹo sậm màu lâu hơn.
+        </li>
+        <li class="list-disc mb-2">
+          Giảm thiểu cử động lên vết thương, tránh ma sát vùng da bị sẹo.
+        </li>
+        <li class="list-disc mb-2">
+          Chăm sóc vết thương đúng cách (sạch, đủ độ ẩm, giảm nguy cơ nhiễm trùng)
+        </li>
+        <li class="list-disc mb-2">
+          Không tự ý cạy, gãi, bóc vảy sẹo, vì dễ kích thích sẹo lan rộng.
+        </li>
+        <li class="list-disc mb-2">
+          Không xông mặt, đắp thuốc dân gian tùy tiện lên vùng sẹo, đặc biệt các loại có chứa corticoid hoặc thành phần gây kích ứng.
+        </li>
+        <li class="list-disc mb-2">
+          Tham khảo ý kiến bác sĩ da liễu nếu sẹo ngày càng dày, đỏ, lan rộng hoặc gây đau ngứa nhiều.
+        </li>
+      </ul>
+      <div class="mb-5 text-xl">
+        <b>Kết luận:</b>
+      </div>
+      <div class="mb-5">
+        Chăm sóc và điều trị sẹo lồi tại nhà là bước quan trọng giúp giảm thiểu gánh nặng tâm lý và cải thiện thẩm mỹ cho người bệnh. Với sự hỗ trợ của các sản phẩm dược mỹ phẩm điều trị tại nhà kết hợp hiểu biết về cách sử dụng đúng, người bệnh hoàn toàn có thể chủ động kiểm soát tình trạng sẹo của mình. Tuy nhiên, khi sẹo lồi có xu hướng lan rộng, dày lên hoặc gây khó chịu, cần gặp bác sĩ để có phác đồ điều trị chuyên sâu, an toàn và hiệu quả hơn.
+      </div>
+    `,
+  },
 ];
 
 export const newspaperList = [
@@ -4190,6 +4523,17 @@ export const newspaperList = [
     imageUrl: "/images/logo_bai_bao/hinh2.png",
     fullContent:
       "https://nsti.vista.gov.vn/publication/view/nong-do-interleukin-6-huyet-thanh-tren-benh-nhan-may-day-man-tinh-353681.html",
+  },
+  {
+    id: 6,
+    title: "Tối ưu hóa điều trị sẹo rỗ bằng RF vi kim và Exosome",
+    isShowBadge: false,
+    badgeLabel: "",
+    subTitle:
+      "Sẹo rỗ là hậu quả thường gặp của mụn trứng cá mức độ trung bình đến nặng, do tổn lớp bì và rối loạn tái cấu trúc collagen, dẫn đến mất thể tích da.",
+    imageUrl: "/images/logo_bai_bao/hinh1.png",
+    fullContent:
+      "https://thanhnien.vn/toi-uu-hoa-dieu-tri-seo-ro-bang-rf-vi-kim-va-exosome-18525072509422121.htm",
   },
 ];
 
