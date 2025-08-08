@@ -4466,6 +4466,241 @@ export const knowledgeArticleList = [
       </div>
     `,
   },
+  {
+    id: 30,
+    searchTag:
+      "Tai biến kem trộn: Xử lý phức tạp và tốn kém tai bien kem tron xu ly phuc tap va ton kem",
+    title: "Tai biến kem trộn: Xử lý phức tạp và tốn kém",
+    isOutstanding: true,
+    isShowBadge: true,
+    badgeLabel: "chăm sóc da",
+    subTitle:
+      "Kem trộn là tên dùng để chỉ các loại kem trắng da cấp tốc, được chế tạo từ nhiều thành phần khác nhau và không rõ nguồn gốc xuất xứ ...",
+    imageUrl: "/images/logo_kien_thuc/chamsocda1.jpg",
+    tagId: 2,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Chăm Sóc Da
+        </span>
+      </div>
+      <div class="mb-5">
+        <b>Bất chấp nhiều cảnh báo từ giới chuyên môn, tai biến da do kem trộn vẫn liên tục diễn ra và để lại nhiều hậu quả phức tạp, xử lý tốn kém.</b>
+      </div>
+      <div class="mb-5 text-xl">
+        <b>Nghiện corticosteroid</b>
+      </div>
+      <div class="mb-5">
+        "Kem trộn" là tên dùng để chỉ các loại kem trắng da cấp tốc, được chế tạo từ nhiều thành phần khác nhau và không rõ nguồn gốc xuất xứ. Các thành phần chính của kem trộn gồm: vitamin E, cortibion, aspirin, becozyme, và đặc biệt là corticosteroid. 
+      </div>
+      <div class="mb-5">
+        Các thành phần này được nghiền mịn và hòa trộn lại để tạo thành sản phẩm kem trộn bán ra ngoài thị trường. Công thức sản xuất kem trộn thường không được kiểm chứng, chưa kể việc pha chế không đảm bảo vệ sinh do không có dây chuyền sản xuất chuẩn mực. Do đó ngày càng có nhiều trường hợp viêm da do corticoid, hay còn gọi là da nhiễm corticoid, do tình trạng sử dụng kem trộn tràn lan và không tuân thủ chỉ định của bác sĩ. 
+      </div>
+      <div class="mb-5">
+        Corticosteroid bôi tại chỗ là một trong những nhóm thuốc được sử dụng phổ biến nhất trong điều trị các bệnh da liễu. Nhóm thuốc này mang lại hiệu quả giảm triệu chứng nhanh chóng, đặc biệt trong các bệnh viêm da khi sử dụng trong thời gian ngắn. Nhưng việc lạm dụng corticosteroid có thể dẫn đến nhiều tác dụng phụ như teo da, giảm sắc tố, phát ban dạng mụn trứng cá, rậm lông, nhiễm ký sinh trùng Demodex. 
+      </div>
+      <div class="mb-5">
+        Ngoài ra, ngưng corticosteroid sau thời gian dài sử dụng cũng gây nên những triệu chứng nặng nề, được đề cập với các tên gọi như “Nghiện corticosteroid” “Hội chứng cai corticosteroid”, “Viêm da do steroid” hay “Hội chứng mặt đỏ”. Việc xử trí tác dụng phụ do corticosteroid khá phức tạp và tốn nhiều thời gian.
+      </div>
+      <div class="mb-5">
+        Các tác dụng phụ khi dùng corticosteroid tại chỗ thường liên quan đến việc da giảm khả năng lành thương và mất đàn hồi do giảm tổng hợp collagen. Ngoài ra, corticosteroid còn làm giảm độ co giãn và khả năng đàn hồi của mô liên kết, khiến da trở nên mỏng manh và dễ bị tổn thương. Đồng thời, thuốc làm giảm nồng độ lipid tự nhiên trong da, làm suy yếu hàng rào bảo vệ da, khiến da dễ bị ảnh hưởng bởi các tác nhân từ môi trường bên ngoài.
+      </div>
+      <div class="mb-5">
+        Hội chứng cai corticosteroid tại chỗ xảy ra do rối loạn chức năng thụ thể glucocorticoid ở da và tổn thương hàng rào bảo vệ da. Điều này kích hoạt một chuỗi phản ứng viêm qua trung gian cytokine, dẫn đến hiện tượng viêm bùng phát sau khi ngưng sử dụng corticosteroid.
+      </div>
+      <div class="mb-5 text-xl">
+        <b>Triệu chứng thường gặp</b>
+      </div>
+      <div class="mb-5">
+        Nhiều tác dụng phụ trên da có thể xuất hiện khi dùng corticosteroid tại chỗ, nhất là khi thời gian điều trị kéo dài. Mức độ tác dụng phụ còn phụ thuộc vào độ mạnh của thuốc, dạng bào chế và vị trí bôi. Một số tác dụng phụ phổ biến gồm:
+      </div>
+      <ul class="mb-3 pl-12">
+        <li class="list-disc mb-2">
+          <b>Teo da, giãn mạch và rạn da:</b> Thường xảy ra khi sử dụng corticosteroid tại chỗ lặp lại ở cùng một vùng da. Thuốc làm mỏng lớp thượng bì và thay đổi cấu trúc mô liên kết, khiến da trở nên mỏng hơn, nhăn nheo, trong suốt và làm lộ rõ các mạch máu bên dưới. Tác dụng phụ này hay gặp ở vùng nếp gấp như nách, bẹn, cũng như các vùng da mỏng như mặt và quanh mí mắt. Teo da có thể phục hồi sau khi ngưng dùng corticosteroid tại chỗ, nhưng quá trình này có thể mất vài tháng. 
+        </li>
+        <li class="list-disc mb-2">
+          <b>Đỏ bừng mặt:</b> Xảy ra khi dùng corticosteroid tại chỗ kéo dài, do mất lớp mô liên kết hỗ trợ mạch máu ở hạ bì, gây giãn mao mạch và đôi khi xuất huyết dưới da. Việc dùng thuốc lâu ngày cũng làm tăng nguy cơ nhiễm Demodex, góp phần gây ra hiện tượng này.
+        </li>
+        <li class="list-disc mb-2">
+          <b>Tăng sắc tố và nám da:</b> Thời gian đầu sử dụng corticosteroid, quá trình sản sinh sắc tố bị ức chế và làm mờ vết nám, trắng da. Nhưng khi ngưng dùng, quá trình này hoạt động mạnh hơn để bù trừ, thậm chí làm rối loạn quá trình sản xuất melanin. Hậu quả là da xuất hiện những vùng tăng sắc tố không đều màu và làm trầm trọng hơn tình trạng nám sẵn có. 
+        </li>
+        <li class="list-disc mb-2">
+          <b>Giảm sắc tố khu trú:</b> Xảy ra khi corticosteroid ức chế chức năng tế bào hắc tố, tạo ra các vùng da giảm sắc tố. Tình trạng này có thể cải thiện sau khi ngừng dùng steroid.
+        </li>
+        <li class="list-disc mb-2">
+          <b>Phát ban dạng mụn trứng cá:</b> Sử dụng corticosteroid tại chỗ kéo dài có thể gây ra phát ban dạng mụn trứng cá với đặc trưng là xuất hiện đột ngột sẩn viêm và mụn mủ nhỏ, đồng dạng, ít hoặc không có nhân mụn. Chủ yếu xuất hiện ở vùng thân và các chi, ít ảnh hưởng đến mặt.
+        </li>
+        <li class="list-disc mb-2">
+          <b>Tăng nguy cơ nhiễm trùng da, nhiễm nấm da:</b> Thường xuất hiện sớm trong quá trình điều trị bằng corticosteroid tại chỗ. Các triệu chứng có thể cải thiện tạm thời, dẫn đến che lấp triệu chứng lâm sàng, làm chậm trễ quá trình chẩn đoán và điều trị. Ngoài ra corticosteroid tại chỗ ức chế phản ứng miễn dịch bình thường của da, làm tăng mức độ nghiêm trọng của bệnh.
+        </li>
+        <li class="list-disc mb-2">
+          <b>Bùng phát các bệnh da liễu trước đó:</b> Việc ngưng sử dụng corticosteroid tại chỗ có độ mạnh cao trên vùng da rộng bị vảy nến trong thời gian dài có thể làm tái phát bệnh hoặc bùng phát vảy nến mủ. Hiện tượng này đặc biệt dễ xảy ra khi sử dụng corticosteroid với lượng lớn hoặc băng bịt. Tương tự, việc ngừng dùng thuốc đột ngột cũng có thể gây ra các đợt bùng phát viêm da cơ địa.
+        </li>
+        <li class="list-disc mb-2">
+          <b>Hội chứng cai corticosteroid bôi tại chỗ:</b> Bệnh nhân có cảm giác ngứa, châm chích, bỏng rát, đau nhức da, xuất hiện từ vài ngày đến vài tuần sau khi ngừng dùng corticosteroid. Các dấu hiệu thường gặp là đỏ da, bong tróc, phù nề, tiết dịch, mụn mủ, teo da, da mỏng, nhăn nheo. Những tổn thương này có thể lan rộng sang các vùng da không bôi corticosteroid trước đó.
+        </li>
+        <li class="list-disc mb-2">
+          <b>Một số biểu hiện khác:</b> Da nhạy cảm, dễ kích ứng, bong tróc, lột da, và trong một số trường hợp nặng có thể tiến triển đến đỏ da toàn thân. Một số bệnh nhân cũng ghi nhận triệu chứng toàn thân như run, lạnh run, nổi hạch bạch huyết, mệt mỏi, rối loạn giấc ngủ, thay đổi cảm xúc và trầm cảm.
+        </li>
+      </ul>
+      <div class="mb-5 text-xl">
+        <b>Một số lưu ý trong điều trị</b>
+      </div>
+      <div class="mb-5">
+        Việc điều trị các tác dụng phụ do corticosteroid tại chỗ thường tốn kém cả về thời gian lẫn chi phí. Do đó, phòng ngừa là yếu tố then chốt. Người bệnh cần tuyệt đối tuân theo chỉ định của bác sĩ, tránh lạm dụng hoặc tự ý sử dụng thuốc. Khi tình trạng bệnh cải thiện, nên giảm dần tần suất và liều lượng bôi thuốc. Ngoài ra, cần đặc biệt thận trọng khi sử dụng corticosteroid tại các vùng da nhạy cảm như mặt, bìu, các nếp gấp và vùng quanh mắt.
+      </div>
+      <div class="mb-5">
+        Việc điều trị cụ thể tùy vào loại tác dụng phụ gặp phải. Tuy nhiên, có vài lưu ý quan trọng cần ghi nhớ trong quá trình điều trị:
+      </div>
+      <ul class="mb-3 pl-12">
+        <li class="list-disc mb-2">
+          <b>Thói quen:</b> Hạn chế chạm tay và chà xát, cào gãi lên mặt; hạn chế trang điểm và hạn chế tiếp xúc với môi trường ô nhiễm, nhiều bụi bẩn.
+        </li>
+        <li class="list-disc mb-2">
+          <b>Lựa chọn sản phẩm chăm sóc da tại nhà:</b> Chọn sữa rửa mặt dịu nhẹ, không chứa các hoạt chất có tính tẩy rửa mạnh. Sử dụng kem dưỡng ẩm dịu nhẹ để phục hồi hàng rào bảo vệ da. 
+        </li>
+        <li class="list-disc mb-2">
+          <b>Hỗ trợ tâm lý:</b> Đóng vai trò quan trọng trong quá trình điều trị, giúp bệnh nhân vượt qua những ảnh hưởng tâm lý - xã hội do hội chứng này gây ra. 
+        </li>
+        <li class="list-disc mb-2">
+          <b>Các phương pháp khác:</b> Liệu pháp ánh sáng sinh học, laser, tiêm vi điểm, sử dụng chế phẩm huyết tương giàu tiểu cầu, sản phẩm từ tế bào gốc… cũng được ứng dụng với mục tiêu giảm đỏ, giảm viêm và phục hồi lại hàng rào bảo vệ da.
+        </li>
+      </ul>
+      <div class="mb-5 italics">
+        "Trong một số trường hợp nặng, bệnh nhân cũng có thể được sử dụng một số thuốc để giảm triệu chứng và kiểm soát nhiễm trùng. Điều quan trọng là bệnh nhân cần được thăm khám bởi bác sĩ chuyên khoa da liễu để xác định chính xác tình trạng bệnh và xây dựng phác đồ điều trị phù hợp, cá nhân hóa theo mức độ và biểu hiện cụ thể".
+      </div>
+    `,
+  },
+  {
+    id: 31,
+    searchTag: "12 biểu hiện kỳ lạ trên da bạn tuyệt đối không nên bỏ qua bieu hien ky la tren da ban tuyet doi khong nen bo qua",
+    title: "12 biểu hiện kỳ lạ trên da bạn tuyệt đối không nên bỏ qua",
+    isOutstanding: false,
+    isShowBadge: true,
+    badgeLabel: "bệnh lý da",
+    subTitle:
+      "Da là cơ quan lớn nhất của cơ thể và không giống các cơ quan nội tạng như tim, phổi hay thận, bạn có thể quan sát làn da mỗi ngày ...",
+    imageUrl: "/images/logo_kien_thuc/benhlyda9.jpg",
+    tagId: 5,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Bệnh Lý Da
+        </span>
+      </div>
+      <div class="mb-3 text-center">
+        <b>BS.CK2 Nguyễn Lê Trà Mi</b>
+      </div>
+      <div class="mb-3 text-center">
+        Giảng viên Bộ môn Da liễu Đại học Y Dược TP.HCM
+      </div>
+      <div class="mb-3">
+        <b>Da là cơ quan lớn nhất của cơ thể và không giống các cơ quan nội tạng như tim, phổi hay thận, bạn có thể quan sát làn da mỗi ngày.  Nhờ đó da trở thành “cửa sổ” quan trọng phản ánh tình trạng sức khỏe bên trong. Sau đây là 12 biểu hiện bất thường trên da có thể liên quan đến một vấn đề sức khỏe tiềm ẩn nào đó. </b>
+      </div>
+      <div class="mb-3">
+        <b>1. Một nốt nhìn giống mụn trứng cá và chảy máu</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda1.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Nếu bạn nhận thấy một nốt màu hồng, bề mặt trơn láng ở mũi hay ở mặt, trông giống mụn trứng cá nhưng không có nhân mụn và chảy máu dù bạn không hề chạm vào, đây là dấu hiệu bất thường, đặc biệt nếu nó tồn tại trong thời gian dài. Trong trường hợp này, bạn nên đến gặp bác sĩ da liễu để được sinh thiết nhằm loại trừ khả năng ung thư da.
+      </div>
+      <div class="mb-3">
+        <b>2. Thay đổi đột ngột mùi cơ thể</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda2.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Những thay đổi bất thường liên quan đến mùi cơ thể có thể là dấu hiệu của rối loạn nội tiết hoặc nhiễm trùng. Ví dụ, tình trạng hoại tử thường gây ra mùi hôi nồng, ẩm mốc, trong khi nhiễm tụ cầu hoặc liên cầu có thể tạo ra mùi ngọt giống như thứ gì đó đang bắt đầu phân hủy hay hiếm gặp hơn là hội chứng mùi cá khiến mồ hôi có mùi tanh như cá ươn. Một số người chỉ gặp tình trạng này theo từng giai đoạn và việc điều chỉnh chế độ ăn uống có thể giúp cải thiện triệu chứng. Dù nguyên nhân là gì, bạn cũng nên tìm đến bác sĩ để xác định chính xác nguyên nhân.
+      </div>
+      <div class="mb-3">
+        <b>3. Mạch máu hoặc tĩnh mạch hiện rõ trên da</b>
+      </div>
+      <div class="mb-5">
+        Nếu các tĩnh mạch trên cơ thể bạn đột nhiên trở nên nổi rõ trong khi trước đó gần như không nhìn thấy, đây có thể là dấu hiệu cảnh báo huyết khối tĩnh mạch sâu. Bạn nên tìm đến bác sĩ ngay, đặc biệt nếu đi kèm với sưng, đau hoặc đỏ. Tuy nhiên, cũng có những nguyên nhân lành tính hơn như sau khi tập thể dục cường độ cao, tiếp xúc với thời tiết nóng, phơi nắng lâu hoặc mặc quần áo quá chật.
+      </div>
+      <div class="mb-3">
+        <b>4. Da chuyển sang màu xanh</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda3.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Hiện tượng da chuyển sang màu xanh thường liên quan đến việc sử dụng thuốc hoặc một số loại thực phẩm chức năng. Ví dụ, thực phẩm chức năng chứa bạc có thể khiến da chuyển sang màu xám xanh, gọi là argyria – sạm da do bạc. Kháng sinh minocycline cũng có thể khiến da đổi màu ở tay, mặt và cẳng chân. Khi gặp phải tình trạng này, bạn cần ngừng thuốc và trong một số trường hợp, có thể cần can thiệp bằng laser để cải thiện. 
+      </div>
+      <div class="mb-3">
+        <b>5. Xuất hiện thay đổi ở móng</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda4.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3">
+        Sự thay đổi màu sắc của móng, xuất hiện rãnh móng hoặc ly móng đều có thể là dấu hiệu của các vấn đề y khoa nghiêm trọng. Chẳng hạn, xuất huyết dưới móng có thể là biểu hiện của viêm nội tâm mạc nhiễm trùng, khi các cục máu đông nhỏ hình thành và đi vào các mao mạch dưới móng. Giãn mạch quanh móng có thể liên quan đến viêm bì cơ hoặc lupus đỏ, móng tay hình muỗng có thể liên quan đến suy giáp hoặc thiếu máu và hiện tượng ngón tay dùi trống có thể liên quan đến bệnh viêm ruột (IBD) hoặc bệnh phổi mạn tính.
+      </div>
+      <div class="mb-3">
+        Một dấu hiệu cần chú ý là sự xuất hiện của đường dọc, sẫm màu ở ngón cái, ngón trỏ hoặc ngón chân cái. Đây có thể là dấu hiệu cảnh báo ung thư hắc tố ở móng. Nếu đường này ngày càng rộng ra hoặc có hình dạng bất thường ở vùng gốc móng, bạn nên gặp bác sĩ để được phát hiện bệnh càng sớm càng tốt.
+      </div>
+      <div class="mb-5">
+        <b>6. Da mịn như nhung</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda5.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Nếu bạn nhận thấy các mảng da sẫm màu ở vùng cổ, nách hoặc bẹn, cảm giác mềm mại như nhung, có thể đó là gai đen – một dấu hiệu có thể liên quan đến đề kháng insulin và có thể dẫn đến đái tháo đường tuýp 2 nếu không được can thiệp kịp thời. Bệnh nhân cần chú ý đến dấu hiệu này, đặc biệt  những thanh thiếu niên thừa cân trong độ tuổi dậy thì để thay đổi thói quen ăn uống, lối sống và thói quen tập luyện sao cho lành mạnh hơn.
+      </div>
+      <div class="mb-3">
+        <b>7. Da sáng bóng bất thường</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda6.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Nếu da bạn đột nhiên sáng bóng bất thường thì đó có thể là dấu hiệu của thay đổi nội tiết tố, nhiễm trùng da, hoặc thậm chí là ung thư. Dấu hiệu da bóng như ngọc trai thường liên quan đến ung thư tế bào đáy, đặc biệt tại vùng có sự tăng trưởng tế bào bất thường. Ung thư tế bào đáy thường xuất hiện ở những vùng da tiếp xúc với ánh nắng như đầu, mặt, cổ, tay và chân, bề mặt sang thương có mao mạch nhỏ li ti, kèm chảy máu hoặc tróc vảy.
+      </div>
+      <div class="mb-3">
+        <b>8. Ngứa lòng bàn tay</b>
+      </div>
+      <div class="mb-5">
+        Vào mùa đông khô hanh, tay bạn có thể bị ngứa do khô da. Tuy nhiên, nếu cơn ngứa kéo dài trong nhiều tháng, đặc biệt là ngứa về đêm và không có phát ban đi kèm, thì đây có thể là dấu hiệu cho thấy bạn cần gặp bác sĩ chuyên khoa gan-mật để xác định nguyên nhân gây ngứa.
+      </div>
+      <div class="mb-3">
+        <b>9. Vết thương chậm lành</b>
+      </div>
+      <div class="mb-5">
+        Một vết thương chậm lành có thể đơn giản là quá trình lành vết thương chậm hơn bình thường, nhưng cũng có thể là dấu hiệu của tình trạng ác tính. Ví dụ, ung thư tế bào vảy có thể xuất hiện dưới dạng vết thương không lành, kèm theo các triệu chứng như có khối u cứng, hình vòm hoặc vết loét hình thành trên sẹo cũ. Trường hợp này bạn nên đến gặp bác sĩ để có thể phát hiện kịp thời một căn bệnh ác tính.
+      </div>
+      <div class="mb-3">
+        <b>10. Da sần sùi như giấy nhám</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda7.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3">
+        Nếu da bạn trở nên khô ráp và xuất hiện những sẩn nhỏ, sần giống như giấy nhám, thì có thể đó là dày sừng nang lông.
+      </div>
+      <div class="mb-5">
+        Tình trạng này đặc trưng bởi những sẩn nhỏ li ti khoảng 1mm, xuất hiện ở bắp tay trên, đùi và mông. Mặc dù các tình trạng này thường lành tính, tuy nhiên, những người bị dày sừng nang lông có nguy cơ cao mắc viêm da cơ địa, hen suyễn và dị ứng theo mùa.
+      </div>
+      <div class="mb-3">
+        <b>11. Tóc thay đổi bất thường</b>
+      </div>
+      <div class="mb-2 flex justify-center">
+        <img src="/images/logo_kien_thuc/benhlyda8.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Nếu bạn nhận thấy tóc bạc sớm hoặc thay đổi đột ngột về màu sắc, kết cấu, đây có thể là dấu hiệu của vấn đề sức khỏe tiềm ẩn hoặc thiếu hụt dinh dưỡng. Ví dụ, rụng tóc từng vùng, một bệnh lý tự miễn, có thể khiến tóc chuyển sang màu trắng hoặc xám, sau đó rụng thành từng mảng. Một bệnh tự miễn khác là bạch biến cũng gây mất sắc tố, dẫn đến tóc trắng hoặc xám. Trong những trường hợp hiếm, ung thư hắc tố cũng có thể gây ra những thay đổi này, thường làm tóc sậm màu hơn.
+      </div>
+      <div class="mb-3">
+        <b>12. Tăng nhạy cảm với các sản phẩm từng dùng trước đây</b>
+      </div>
+      <div class="mb-5">
+        Nếu bạn bắt đầu cảm thấy da bị kích ứng khi dùng một sản phẩm nào đó dù trước đây không có vấn đề gì, thì có thể bạn đang bị viêm da tiếp xúc dị ứng hoặc kích ứng. Trung bình, phải mất khoảng 5 năm để phát triển dị ứng với một hoạt chất bôi thoa. Phản ứng này thường là phản ứng quá mẫn muộn, với phát ban có thể xuất hiện sau 5–10 ngày sử dụng và có thể kéo dài hàng tuần hoặc thậm chí hàng tháng. Bạn nên ngừng tất cả các sản phẩm, rồi thêm từng sản phẩm trở lại một cách tuần tự để xác định rõ đâu là hoạt chất gây dị ứng.
+      </div>
+    `,
+  },
 ];
 
 export const newspaperList = [
