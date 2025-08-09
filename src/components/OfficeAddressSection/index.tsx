@@ -79,7 +79,7 @@ const OfficeAddressSection = ({ titleSection = "địa điểm" }) => {
                 color={"#EF5C76"}
               />
               <Title className={classes.addressText}>
-                Thứ 2 - Thứ 7<br/>9:00 – 20:00
+                Thứ 2 - CN<br/>9:00 – 20:00
               </Title>
             </Flex>
             <Flex gap={rem(10)} align={"center"} mb={rem(20)}>

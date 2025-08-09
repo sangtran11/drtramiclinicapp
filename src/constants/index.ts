@@ -4325,7 +4325,7 @@ export const knowledgeArticleList = [
     badgeLabel: "làm đẹp",
     subTitle:
       "Sẹo lồi là tình trạng tăng sinh quá mức mô sợi sau chấn thương da như phẫu thuật, bỏng, trầy xước, viêm da hoặc mụn trứng cá, hoặc có thể xảy ra tự phát ...",
-    imageUrl: "/images/logo_kien_thuc/lamdep19.jpg",
+    imageUrl: "/images/logo_kien_thuc/lamdep23.jpg",
     tagId: 3,
     fullContent: `
       <div class="mb-5 text-center">
@@ -4486,6 +4486,12 @@ export const knowledgeArticleList = [
       <div class="mb-5">
         <b>Bất chấp nhiều cảnh báo từ giới chuyên môn, tai biến da do kem trộn vẫn liên tục diễn ra và để lại nhiều hậu quả phức tạp, xử lý tốn kém.</b>
       </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep34.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Hình 1: Tai biến kem trộn xử lý phức tạp và tốn kém.
+      </div>
       <div class="mb-5 text-xl">
         <b>Nghiện corticosteroid</b>
       </div>
@@ -4509,6 +4515,12 @@ export const knowledgeArticleList = [
       </div>
       <div class="mb-5 text-xl">
         <b>Triệu chứng thường gặp</b>
+      </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep35.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Hình 2: Tác dụng phụ của da nghiện corticosteroid.
       </div>
       <div class="mb-5">
         Nhiều tác dụng phụ trên da có thể xuất hiện khi dùng corticosteroid tại chỗ, nhất là khi thời gian điều trị kéo dài. Mức độ tác dụng phụ còn phụ thuộc vào độ mạnh của thuốc, dạng bào chế và vị trí bôi. Một số tác dụng phụ phổ biến gồm:
@@ -4567,6 +4579,12 @@ export const knowledgeArticleList = [
       </ul>
       <div class="mb-5 italics">
         "Trong một số trường hợp nặng, bệnh nhân cũng có thể được sử dụng một số thuốc để giảm triệu chứng và kiểm soát nhiễm trùng. Điều quan trọng là bệnh nhân cần được thăm khám bởi bác sĩ chuyên khoa da liễu để xác định chính xác tình trạng bệnh và xây dựng phác đồ điều trị phù hợp, cá nhân hóa theo mức độ và biểu hiện cụ thể".
+      </div>
+      <div class="mb-1 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep36.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-5">
+        Hình 3: Khách hàng điều trị da nghiện corticosteroid tại Dr. Trà Mi Skin Clinic.
       </div>
     `,
   },
@@ -4985,7 +5003,7 @@ export const newspaperList = [
     badgeLabel: "",
     subTitle:
       "Sẹo rỗ là hậu quả thường gặp của mụn trứng cá mức độ trung bình đến nặng, do tổn lớp bì và rối loạn tái cấu trúc collagen, dẫn đến mất thể tích da.",
-    imageUrl: "/images/logo_bai_bao/hinh1.png",
+    imageUrl: "/images/logo_bai_bao/hinh3.svg",
     fullContent:
       "https://thanhnien.vn/toi-uu-hoa-dieu-tri-seo-ro-bang-rf-vi-kim-va-exosome-18525072509422121.htm",
   },
