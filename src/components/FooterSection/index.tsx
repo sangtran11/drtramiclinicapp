@@ -10,8 +10,9 @@ import {
 import { CustomLogo } from "@/components";
 import mainLogoUrl from "/images/big_main_logo.png";
 import fbIcon from "/icons/fb.svg";
-// import instagramIcon from "/icons/instagram.svg";
-import tiktok from "/icons/tiktok.svg";
+import instagramIcon from "/icons/instagram.svg";
+import tiktokIcon from "/icons/tiktok.svg";
+import youtubeIcon from "/icons/youtube.svg";
 import { isMobileOnly } from 'react-device-detect';
 
 const useStyles = createStyles((theme) => ({
@@ -67,7 +68,7 @@ const FooterSection = () => {
           <Grid.Col md={12} lg={3}>
             <Title className={classes.subTitle}>giờ hoạt động</Title>
             <Text className={classes.information}>
-              Thứ 2 - Thứ 7<br/>9:00 – 20:00
+              Thứ 2 - CN<br/>9:00 – 20:00
             </Text>
           </Grid.Col>
           <Grid.Col md={12} lg={3}>
@@ -87,11 +88,16 @@ const FooterSection = () => {
                   <img src={fbIcon} alt={"fb"} />
                 </a>
               </div>
-              {/* <div className="pr-6">
-                <a href={""} target={"_blank"}>
+              <div className="pr-6">
+                <a href={"https://www.instagram.com/bstramidalieu/"} target={"_blank"}>
                   <img src={instagramIcon} alt={"IG"} />
                 </a>
-              </div> */}
+              </div>
+              <div className="pr-6">
+                <a href={"https://www.youtube.com/@bsdalieutrami"} target={"_blank"}>
+                  <img src={youtubeIcon} alt={"youtube"} />
+                </a>
+              </div>
               <div>
                 <a
                   href={
@@ -99,7 +105,7 @@ const FooterSection = () => {
                   }
                   target={"_blank"}
                 >
-                  <img src={tiktok} alt={"tiktok"} />
+                  <img src={tiktokIcon} alt={"tiktok"} />
                 </a>
               </div>
             </Flex>

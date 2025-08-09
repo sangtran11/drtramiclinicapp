@@ -365,17 +365,16 @@ export const seminarImageList = [
   "hoithao7.png",
   "hoithao8.png",
   "hoithao9.jpg",
-  "hoithao10.jpg",
-  "hoithao11.jpg",
-  "hoithao12.jpg",
-  "hoithao13.jpg",
-  "hoithao14.jpg",
-  "hoithao15.jpg",
-  "hoithao16.jpg",
-  "hoithao17.jpg",
-  "hoithao18.jpg",
-  "hoithao19.jpg",
-  "hoithao20.jpg",
+  "hoithao10.svg",
+  "hoithao11.svg",
+  "hoithao12.svg",
+  "hoithao13.svg",
+  "hoithao14.svg",
+  "hoithao15.svg",
+  "hoithao16.svg",
+  "hoithao17.svg",
+  "hoithao18.svg",
+  "hoithao19.svg",
 ];
 
 export const clinicOfficeImagesList = [
@@ -4698,6 +4697,226 @@ export const knowledgeArticleList = [
       </div>
       <div class="mb-5">
         Nếu bạn bắt đầu cảm thấy da bị kích ứng khi dùng một sản phẩm nào đó dù trước đây không có vấn đề gì, thì có thể bạn đang bị viêm da tiếp xúc dị ứng hoặc kích ứng. Trung bình, phải mất khoảng 5 năm để phát triển dị ứng với một hoạt chất bôi thoa. Phản ứng này thường là phản ứng quá mẫn muộn, với phát ban có thể xuất hiện sau 5–10 ngày sử dụng và có thể kéo dài hàng tuần hoặc thậm chí hàng tháng. Bạn nên ngừng tất cả các sản phẩm, rồi thêm từng sản phẩm trở lại một cách tuần tự để xác định rõ đâu là hoạt chất gây dị ứng.
+      </div>
+    `,
+  },
+  {
+    id: 32,
+    searchTag:
+      "Glutathione truyền trắng, tốt hay xấu? glutathione truyen trang tot hay xau",
+    title: "Glutathione truyền trắng, tốt hay xấu?",
+    isOutstanding: false,
+    isShowBadge: true,
+    badgeLabel: "làm đẹp",
+    subTitle:
+      "Glutathione là một chất chống oxy hoá tự nhiên, có trong cơ thể con người ...",
+    imageUrl: "/images/logo_kien_thuc/lamdep27.jpg",
+    tagId: 3,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Làm Đẹp
+        </span>
+      </div>
+      <div class="mb-3 text-center">
+        <b>BSCKII. NGUYỄN LÊ TRÀ MI</b>
+      </div>
+      <div class="mb-5 text-center">
+       Giảng viên Bộ môn Da liễu Đại học Y Dược TP.HCM
+      </div>
+      <div class="mb-5">
+        <b>Glutathione là một chất chống oxy hoá tự nhiên, có trong cơ thể con người, hỗ trợ nhiều chức năng quan trọng, đóng vai trò quan trọng đối với sức khỏe mỗi chúng ta. Bên cạnh việc được sản xuất tự nhiên bởi cơ thể, glutathione có thể được bổ sung bằng các chế phẩm bên ngoài với nhiều đường dùng khác nhau.</b>
+      </div>
+      <div class="mb-3 text-xl">
+        <b>1. Glutathione là gì?</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Glutathione là một chất chống oxy hóa mạnh được sản xuất bởi cơ thể, được tổng hợp bởi từ 3 axit amin là glutamate, cystine và glycine. Chất chống oxy hóa này đóng một vai trò quan trọng trong việc bảo vệ các tế bào của cơ thể khỏi sự phá hủy do các gốc tự do và độc tố gây ra. Glutathione mang lại nhiều lợi ích đối với sức khỏe, bao gồm cải thiện chức năng miễn dịch, chống lại stress oxy hóa và giải độc tố.Bên cạnh được cơ thể sản xuất tự nhiên, trái cây tươi, rau xanh và các loại hạt là nguồn cung cấp glutathione tự nhiên. Cà chua, bơ, cam, quả óc chó và măng tây là những nguồn thực phẩm cung cấp glutathione phổ biến. 
+      </div>
+      <div class="mb-3 pl-3 text-xl">
+        <b>Glutathione có tác dụng gì cho làn da?</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Glutathione cũng đóng một vai trò quan trọng trong việc duy trì vẻ đẹp của làn da và ngăn ngừa lão hóa. Glutathione có tác dụng ức chế enzyme tyrosinase - một chất giúp tổng hợp sắc tố melanin, từ đó làm sáng da. Bên cạnh đó, màu sắc da còn quyết định bởi tỉ lệ eumelanin (màu nâu đen) và pheomelanin (màu vàng đỏ). Glutathione làm tăng tỉ lệ pheomelanin góp phần cải thiện sắc tố da. Trong nhiều nghiên cứu, glutathione đã được chứng minh là có khả năng loại bỏ các gốc oxy hoá do tia cực tím tạo ra trong tế bào biểu bì. Ngoài ra, nó còn tham gia vào quá trình sản sinh collagen, tăng độ đàn hồi và săn chắc cho làn da.
+      </div>
+      <div class="mb-3 text-xl">
+        <b>2. Glutathione có thể dùng như thế nào?</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Glutathione có sẵn ở nhiều dạng công thức khác nhau như thuốc bôi hay tiêm trong da, đường uống, ngậm dưới lưỡi và thuốc tiêm.
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>2.1 Tại chỗ</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Glutathione thoa tại chỗ cho thấy sự cải thiện đáng kể trên da khi sử dụng liên tục trong một thời gian nhất định. Ngoài ra, glutathione còn được sử dụng trong liệu pháp mesotherapy, dùng dưới dạng đơn trị liệu hoặc kết hợp với axit ascorbic, vitamin E, axit tranexamic,..cũng cho thấy hiệu quả khả quan. 
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>2.2 Đường uống</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Các chế phẩm uống có sẵn ở dạng viên nén và dạng dung dịch. Liều cần thiết của glutathione là 20-40 mg/kg (tức là 1 g đến 2 g trong ngày chia làm hai liều) và hiệu quả có thể thấy rõ trong vòng 3 tháng. Đây là đường dùng được cho là hiệu quả và an toàn. 
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>2.3 Ngậm dưới lưỡi</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Tính sinh khả dụng của đường dùng này tốt hơn đường uống, yêu cầu liều lượng glutathione thấp hơn và được cho là an toàn bởi FDA. Tuy nhiên các chế phẩm dạng ngậm không phổ biến và khó tìm trên thị trường.
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>2.4 Đường tĩnh mạch</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Do sinh khả dụng thấp của glutathione đường uống, việc tiêm tĩnh mạch glutathione được kỳ vọng sẽ làm sáng da “tức thì”. Tiêm tĩnh mạch dự kiến ​​sẽ mang lại 100% sinh khả dụng của glutathione, cao hơn nhiều so với sử dụng đường uống. Liều thường dùng để làm sáng da đường tĩnh mạch là 600–1200 mg, tiêm một đến hai lần mỗi tuần. Hiện không có dữ liệu về hiệu quả của glutathione tiêm tĩnh mạch trong chỉ định làm sáng da, cũng như chứng cứ khoa học về độ an toàn của đường dùng này vẫn còn hạn chế. 
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>2.5 Có nên “truyền trắng” bằng Glutathione?</b>
+      </div>
+      <div class="mb-3 pl-3">
+        “Truyền trắng” da là phương pháp truyền trực tiếp vào tĩnh mạch các hoạt chất có tác dụng ức chế hình thành sắc tố melanin, giúp mang lại làn da trắng sáng. Các hoạt chất thường được dùng là vitamin C và L-cysteine peptide và phổ biến nhất là Glutathione. Hiện nay, phương pháp truyền trắng khá phổ biến và được cung cấp bởi nhiều spa và cơ sở làm đẹp. Tuy nhiên phương pháp làm đẹp này tiềm ẩn nhiều rủi ro, nguy hiểm đến sức khỏe .
+      </div>
+      <div class="mb-3 pl-3">
+        Theo nghiên cứu, tác dụng phụ của glutathione truyền tĩnh mạch có thể đến từ 2 nguyên nhân: (1) từ việc cung cấp trực tiếp một lượng lớn phân tử glutathione vào tuần hoàn máu hoặc (2) có thể từ tá dược có trong thuốc tiêm. Các tác dụng phụ bao gồm: hội chứng Stevens-Johnson, hoại tử thượng bì nhiễm độc (TEN) có khả năng gây tử vong, rối loạn chức năng thận, gan, rối loạn chức năng tuyến giáp, đau bụng nghiêm trọng và các biến chứng nguy hiểm như thuyên tắc phổi hoặc nhiễm trùng huyết do phương pháp thực hiện không đúng kỹ thuật. Ngoài ra, nếu thực hiện tại những cơ sở không uy tín, khách hàng có thể đối mặt với nguy cơ lây lan các bệnh truyền nhiễm như viêm gan siêu vi và HIV thông qua quá trình tiêm.
+      </div>
+      <div class="mb-3 pl-3">
+        Hơn nữa, quá trình truyền trắng da cũng sẽ làm mất các sắc tố melanin trong da, tạo điều kiện cho các tia UV trong ánh nắng mặt trời gây tổn thương da và tăng nguy cơ mắc ung thư da.
+      </div>
+      <div class="mb-3 pl-3">
+        Quan trọng hơn, phương pháp truyền trắng bằng các hoạt chất làm sáng da trong đó có glutathione chưa được Bộ Y Tế phê duyệt vì thiếu bằng chứng về mức độ an toàn.  Do đó, Bác sĩ khuyên người tiêu dùng nên thận trọng với phương pháp làm đẹp này để tránh tiền mất tật mang.
+      </div>
+      <div class="mb-3 text-xl">
+        <b>3. Nuôi dưỡng làn da trắng sáng không phải một sớm, một chiều</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Nuôi dưỡng làn da trắng sáng là một quá trình lâu dài, liên tục, bao gồm việc thay đổi lối sống, chăm sóc da đúng cách và dùng các sản phẩm phù hợp theo hướng dẫn của bác sĩ chuyên khoa. 
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>3.1 Bảo vệ da khỏi tác động của tia UV</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Che chắn cẩn thận mỗi khi ra đường, đội mũ rộng vành, mặc quần áo dài tay, và sử dụng ô để bảo vệ da khỏi tác động của tia UV. Dùng kem chống nắng phổ rộng với chỉ số SPF 35-50 hằng ngày, thoa lặp lại mỗi 2-3h, đặc biệt trong thời gian từ 10 giờ sáng đến 4 giờ chiều khi tia UV rất mạnh. 
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>3.2 Ăn uống hợp lí và sinh hoạt điều độ</b>
+      </div>
+      <div class="mb-3 pl-3">
+        - Uống nhiều nước (tránh nước ngọt, rượu, bia), trung bình uống khoảng 1,5 - 2 lít nước/ngày
+      </div>
+      <div class="mb-3 pl-3">
+        - Tăng cường các chất chống oxy hóa như rau xanh, trái cây tươi, hạt, cá, và các nguồn protein lành mạnh. Đồng thời,hạn chế tiêu thụ đồ ăn nhanh, thức ăn có nhiều đường và chất béo không lành mạnh.
+      </div>
+      <div class="mb-3 pl-3">
+        - Tập thể dục rèn luyện sức khỏe hàng ngày.
+      </div>
+      <div class="mb-3 pl-3">
+        - Không thức khuya, nên đảm bảo ngủ đủ giấc, 7-8 giờ mỗi ngày.
+      </div>
+      <div class="mb-3 pl-3">
+        - Tránh lo lắng, căng thẳng.
+      </div>
+      <div class="mb-3 text-xl pl-3">
+        <b>3.3 Làm đẹp khoa học</b>
+      </div>
+      <div class="mb-3 pl-3">
+        - Tẩy tế bào chết 1 - 2 lần/tuần
+      </div>
+      <div class="mb-3 pl-3">
+        - Có thể sử dụng các sản phẩm làm sáng da theo khuyến cáo của bác sĩ da liễu. Sử dụng các hoạt chất thoa có thành phần làm sáng như: niaciamide, AHA, arbutin, vitamin C, axit kojic, arbutin, ... từ những nhãn hàng uy tín.
+      </div>
+      <div class="mb-3 pl-3">
+        - Ngoài ra, có thể sử dụng các hoạt chất chống oxy hoá đường uống như glutathion, vitamin C, polydium leucotomos...tuy nhiên cần tuân thủ theo hướng dẫn của bác sĩ.
+      </div>
+      <div class="mb-3 pl-3">
+        -  Kiên trì chăm sóc và nuôi dưỡng làn da
+      </div>
+      <div class="mb-3 text-xl">
+        <b>4. Kết luận</b>
+      </div>
+      <div class="mb-3 pl-3">
+        Chăm sóc da là một quá trình lâu dài, cần thời gian để làn da có thể trắng sáng, hồng hào tự nhiên. Truyền trắng da có nhiều rủi ro nguy hiểm cho làn da và sức khỏe người tiêu dùng. Vì thế, thay vì lựa chọn phương pháp này, bạn nên áp dụng các phương pháp làm trắng da khoa học đã được kiểm chứng, an toàn giúp làn da trắng sáng và khoẻ đẹp. 
+      </div>
+    `,
+  },
+  {
+    id: 33,
+    searchTag:
+      "CẬP NHẬT TOP 5 CÔNG NGHỆ TRẺ HÓA DA HIỆN NAY cap nhat top 5 cong nghe tre hoa da hien nay",
+    title: "Cập Nhật Top 5 Công Nghệ Trẻ Hóa Da Hiện Nay",
+    isOutstanding: false,
+    isShowBadge: true,
+    badgeLabel: "làm đẹp",
+    subTitle:
+      " Da nhăn nheo, chảy xệ, lỗ chân lông to, da mệt mỏi kém sức sống, … là những biểu hiện chung của tình trạng lão hóa da ...",
+    imageUrl: "/images/logo_kien_thuc/lamdep28.jpg",
+    tagId: 3,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Làm Đẹp
+        </span>
+      </div>
+      <div class="mb-3">
+        <b>Da nhăn nheo, chảy xệ, lỗ chân lông to, da mệt mỏi kém sức sống, …là những biểu hiện chung của tình trạng lão hóa da. Tuy nhiên mức độ lão hóa da mỗi người là khác nhau vì vậy mà “Da nào, công nghệ nấy!” Cùng Dr. Mi tìm hiểu Tops những công nghệ trẻ hóa da hiệu quả hiện nay, và biết được làn da bạn đang “cần” công nghệ nào nhé!</b>
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep28.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3 text-xl">
+        <b>1. Công nghệ HIFU MMFU.</b>
+      </div>
+      <div class="mb-3">
+       Có thể nói đây là công nghệ HIFU tiên tiến hiện nay khi kết hợp cả sóng siêu âm hội tụ macro và micro trong một lần điều trị. Hiệu quả cải thiện nếp nhăn, nâng cơ và trẻ hóa toàn diện chỉ sau 1 lần duy nhất.
+      </div>
+      <div class="mb-3">
+        => Công nghệ này thích hợp cho những người làn da lão hóa từ trung bình cho đến rất nặng, da chảy xệ chùng nhão.
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep29.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3 text-xl">
+        <b>2. Công nghệ EMS kết hợp sóng RF</b>
+      </div>
+      <div class="mb-3">
+        Đây là bước đột phá mới trong công nghệ trẻ hóa da hiện nay. EMS tên đầy đủ là Electronic Muscle Stimulation ứng dụng công nghệ điện từ trường làm săn chắc cơ, tạo hiệu ứng nâng lên và thon gọn tức thì. RF lưỡng cực kích thích tiến trình tăng sinh và tái tạo collagen tự nhiên, làn săn chắc da và mờ nếp nhăn.
+      </div>
+      <div class="mb-3">
+        => Sự kết hợp công nghệ EMS và RF lưỡng cực là bước tiến mới trong công nghệ trẻ hóa da tự nhiên, thích hợp cho những người có làn da nhăn, chảy xệ kém săn chắc, phòng ngừa lão hóa da. 
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep30.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3 text-xl">
+        <b>3. Công nghệ RF Vi kim.</b>
+      </div>
+      <div class="mb-3">
+        Công nghệ nổi tiếng được ứng dụng phổ biến trong điều trị sẹo rỗ hiện nay. Cơ chế tác động của RF vi kim là sự kết hợp sóng siêu âm và vi kim được mạ vàng 24K đầu kim, tác động nhắm trúng đích mô dưới da mà không làm tổn thương vùng da xung quanh. Kích thích tiến trình tăng sinh collagen tự nhiên một cách hiệu quả, làm đầy mô sẹo và trẻ hóa da toàn diện. 
+      </div>
+      <div class="mb-3">
+        => Công nghệ thích hợp với những người lão hóa da mức độ nhẹ đến trung bình, thu nhỏ lỗ chân lông, phục hồi và tái tạo cấu trúc da bị tổn thương.
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep31.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3 text-xl">
+        <b>4. Laser Picosecond</b>
+      </div>
+      <div class="mb-3">
+        Đây là công nghệ tiên tiến trong làm trắng da và điều trị sắc tố hiện nay. Bên cạnh tác động vào sắc tố da, laser picosecond còn kích thích tiến trình tái tạo và thay mới làn da giúp làn da trông trẻ trung hơn. Tuy nhiên hiệu quả săn chắc thì hầu như rất thấp.
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep32.jpg" alt="knowledge-detail" />
+      </div>
+      <div class="mb-3 text-xl">
+        <b>5. Công nghệ LDM - Local Dynamic Micromassage.</b>
+      </div>
+      <div class="mb-3">
+        Là công nghệ sóng âm tần số kép liên kết các tần số khác nhau lên đến 10 MHz trong 1 sóng LDM. Tần số 10 MHz được cho là tần số tối ưu tác động nhắm trúng đích là các sợi collagen, elastin và HA bên trong làn da.
+      </div>
+      <div class="mb-3">
+        => Công nghệ này là sự lựa chọn hoàn chỉnh cho những chị em có làn da khô, mất cân bằng độ ẩm, da nhạy cảm và lão hóa nhẹ. Ưu điểm khác của công nghệ này là chi phí hợp lý, có thể duy trì như một cách chăm sóc da hàng tuần, hàng tháng.
+      </div>
+      <div class="mb-5 flex justify-center">
+        <img src="/images/logo_kien_thuc/lamdep33.jpg" alt="knowledge-detail" />
       </div>
     `,
   },
