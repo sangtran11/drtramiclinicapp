@@ -4938,6 +4938,98 @@ export const knowledgeArticleList = [
       </div>
     `,
   },
+  {
+    id: 34,
+    searchTag:
+      "tình nguyện viên điều trị nám má tinh nguyen vien dieu tri nam ma",
+    title: "TÌNH NGUYỆN VIÊN ĐIỀU TRỊ NÁM MÁ",
+    isOutstanding: true,
+    isShowBadge: true,
+    badgeLabel: "chăm sóc da",
+    subTitle:
+      "Đánh Giá Hiệu Quả, An Toàn Của Phương Pháp Vi Kim Kết Hợp Dung Dịch Axit Tranexamic 10% Thoa Trong Điều Trị Rám Má ...",
+    imageUrl: "/images/logo_kien_thuc/thu_moi_nckh_1.png",
+    tagId: 2,
+    fullContent: `
+      <div class="mb-5 text-center">
+        <span class="px-3 py-0.5 rounded-full bg-[#FDEEEE] text-[#EF5C76] font-bold">
+          Chăm Sóc Da
+        </span>
+      </div>
+      <div class="mb-3 flex justify-center">
+        <img src="/images/logo_kien_thuc/thu_moi_nckh_1.png" alt="knowledge-detail" />
+      </div>
+      <div class="text-center text-sm mb-5">Thư Mời Tham Gia Nghiên Cứu Khoa Học</div>
+      <div class="mb-5">
+        <span class="font-bold">Đề Tài Nghiên Cứu:</span> Đánh Giá Hiệu Quả, An Toàn Của Phương Pháp Vi Kim Kết Hợp Dung Dịch Axit Tranexamic 10% Thoa Trong Điều Trị Rám Má
+      </div>
+      <div class="mb-3">
+        Nghiên cứu viên: <b>BS.CKII Nguyễn Lê Trà Mi, Giảng Viên ĐHYD TP. HCM nội dung như sau:</b>
+      </div>
+      <ul class="mb-3 pl-8">
+        <li class="list-decimal mb-3">
+          Mục tiêu nghiên cứu: Đánh giá hiệu quả và an toàn của phương pháp vi kim kết hợp dung dịch axit tranexamic 10% thoa và vi kim đơn thuần trên bệnh nhân rám má, từ đó hướng đến phương pháp điều trị phù hợp cho bệnh nhân rám má.
+        </li>
+        <li class="list-decimal mb-3">
+          Địa điểm nghiên cứu: <b>Bệnh viện Đại học Y Dược Thành phố Hồ Chí Minh</b>
+        </li>
+        <li class="list-decimal mb-3">
+          Thời gian thực hiện dự kiến: <b>1/2026 - 6/2026</b>
+        </li>
+        <li class="list-decimal mb-3">
+          Quyền lợi của người tham gia nghiên cứu:
+          <div>
+            Được <b>điều trị nám bằng phương pháp</b> vi kim kết hợp dung dịch axit tranexamic 10% thoa trong quá trình điều trị rám má (tổng cộng 3 lần điều trị, mỗi lần cách nhau 1 tháng) và tái khám sau đó 1 tháng. Đồng thời, được theo dõi và tư vấn chăm sóc da tại nhà xuyên suốt thời gian tham gia nghiên cứu bởi BSCKII Nguyễn Lê Trà Mi. 
+          </div>
+        </li>
+        <li class="list-decimal mb-3">
+          Tiêu chuẩn nhận mẫu tham gia nghiên cứu:
+          <div class="mb-5 mt-3 flex justify-center">
+            <img src="/images/logo_kien_thuc/thu_moi_nckh_2.png" alt="knowledge-detail" />
+          </div>
+          <ul class="mb-3 pl-8">
+            <li class="list-disc mb-3">
+              Khách hàng trên 18 tuổi được chẩn đoán rám má: có các dát, khoảng màu nâu nhạt hoặc nâu đen tập trung thành đám, ranh giới không rõ, đối xứng hai bên ở mặt.
+            </li>
+            <li class="list-disc mb-3">
+              Có khả năng tuân thủ theo phác đồ điều trị của nghiên cứu: 3 lần thực hiện thủ thuật, mỗi lần cách nhau 1 tháng và tái khám sau lần điều trị cuối cùng 1 tháng.
+            </li>
+            <li class="list-disc mb-3">
+              Không có bệnh lý da viêm và nhiễm trùng hoạt động ở mặt, không mắc Herpes simplex ở mặt và mụn cóc trên mặt, không có các bệnh lý tăng sắc tố da do nguyên nhân khác: tàn nhang, đốm nâu, bớt Hori, Nevus Ota,…
+            </li>
+            <li class="list-disc mb-3">
+              Không điều trị nám với phương pháp khác (lột da bằng hoá chất, ánh sáng liệu pháp, thuốc bôi hydroquinone, steroids) trong vòng 3 tháng
+            </li>
+            <li class="list-disc mb-3">
+              Không mang thai và cho con bú, không sử dụng thuốc tránh thai hoặc bất kỳ liệu pháp hoocmon thay thế nào
+            </li>
+            <li class="list-disc mb-3">
+              Không uống isotretinoin uống liều cao trong vòng 6 tháng
+            </li>
+            <li class="list-disc mb-3">
+              Không có bệnh lý rối loạn đông máu, không sử dụng thuốc kháng đông hoặc ức chế kết tập tiểu cầu (Warfarin ngưng tối thiểu 6 ngày; acenocoumarol ngưng tối thiểu 3 ngày; clopidogrel, ticagrelor, prasugrel ngưng tối thiểu 5 ngày; aspirin ngưng tối thiểu 9 ngày, NSAIDs ngưng tối thiểu 3 ngày; DOACs ngưng tối thiểu 2 ngày; Heparin ngưng tối thiểu 1 ngày)
+            </li>
+          </ul>
+        </li>
+        <li class="list-decimal mb-3">
+          Chi phí tình nguyện viên tham gia nghiên cứu: Miễn phí, chi phí thăm khám và thực hiện sẽ do BS Trà Mi chịu trách nhiệm chi trả.
+        </li>
+        <li class="list-decimal mb-3">
+          Đăng ký tham dự: Vui lòng scan QR hoặc truy cập link <span class="text-blue-500"><a href="https://forms.gle/XHjQWmTYBrP8zboE9">https://forms.gle/XHjQWmTYBrP8zboE9</a></span> để điền thông tin. 
+          <div class="mb-5 mt-3 flex justify-center">
+            <img src="/images/logo_kien_thuc/thu_moi_nckh_qr.png" alt="knowledge-detail" />
+          </div>
+          <div class="text-center text-sm">Scan QR Code để đăng ký tham gia nghiên cứu</div>
+        </li>
+      </ul>
+      <div class="mb-3">
+        Số lượng có giới hạn, đăng ký ngay hôm nay để cùng chúng tôi tham gia nghiên cứu, đồng thời cải thiện tình trạng nám da bạn nhé!
+      </div>
+      <div class="mb-3">
+        Chúng tôi sẽ thông báo đến bạn khi đạt yêu cầu tham gia nghiên cứu. Xin chân thành cảm ơn bạn đã dành thời gian quý báu đọc thư thông báo này và tham gia nghiên cứu cùng BS.Trà Mi
+      </div>
+    `,
+  },
 ];
 
 export const newspaperList = [
