@@ -346,13 +346,12 @@ export const customerReviewList = [
 ];
 
 export const youtubeVideoList = [
-  "https://www.youtube.com/embed/U-CRdqDCAAU?si=b5FwrpfBcwHZQGoZ",
-  "https://www.youtube.com/embed/k-fV_G-_QnE?si=T9PdX1aIcpM_YuHJ",
-  "https://www.youtube.com/embed/NyOKpI8nt5s?si=5UBN4mqhPUrp4pN7",
-  "https://www.youtube.com/embed/NkekZMJKPaA?si=lZDZCTinzF4fGAgL",
-  "https://www.youtube.com/embed/RMWklHGGYyY?si=2qRAPWMcQyHG4-ad",
-  "https://www.youtube.com/embed/6yaK8PHovqM?si=rOyTWjSGdsA7_tnF",
-  "https://www.youtube.com/embed/cNW1Xxo88xY?si=nhVV6BV5xFZsdOSz",
+ "https://www.youtube.com/embed/DJywvawrqJQ?si=_KwYkommJcedtUTg",
+ "https://www.youtube.com/embed/Lz7L_O1IMkY?si=6RXWwqsRuorvtzWv",
+ "https://www.youtube.com/embed/2TOiquvc0vA?si=06XHkw7nJI-qNgSQ",
+ "https://www.youtube.com/embed/UT9jNFJcjW0?si=_FHRnoWf7GaMn4_0",
+ "https://www.youtube.com/embed/A1Xisnur4SA?si=KwFbG6OvLhGCT75w"
+
 ];
 
 export const seminarImageList = [
