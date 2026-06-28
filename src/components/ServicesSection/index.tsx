@@ -27,6 +27,7 @@ const ServicesSection = ({
             sm={12}
             md={6}
             lg={3}
+            xl={2}
             key={index}
             className="cursor-pointer"
           >

@@ -216,11 +216,11 @@ export const servicesListLogo = [
   },
   {
     id: 5,
-    title: "TƯ VẤN TIÊM FILLER/BOTOX",
+    title: "TƯ VẤN TIÊM FILLER/XÓA NHĂN",
     logo: "tiemfillerbotox",
     content: {
-      name: "Tư vấn tiêm filler/botox",
-      searchTag: "tư vấn tiêm filler botox tu van tiem",
+      name: "Tư vấn tiêm filler/xoá nhăn",
+      searchTag: "tư vấn tiêm filler xoá nhăn tu van tiem",
       desctiption: `
         <div class="mb-3">
           Tiêm filler là phương pháp làm đẹp phổ biến, theo thống kê ở Mỹ có trên 3 triệu người lựa chọn phương thức làm đẹp này. Vậy tiêm Filler là gì? Có an toàn không? 
@@ -351,7 +351,6 @@ export const youtubeVideoList = [
  "https://www.youtube.com/embed/2TOiquvc0vA?si=06XHkw7nJI-qNgSQ",
  "https://www.youtube.com/embed/UT9jNFJcjW0?si=_FHRnoWf7GaMn4_0",
  "https://www.youtube.com/embed/A1Xisnur4SA?si=KwFbG6OvLhGCT75w"
-
 ];
 
 export const seminarImageList = [
