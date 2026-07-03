@@ -5055,17 +5055,6 @@ export const newspaperList = [
   },
   {
     id: 3,
-    title: "Xóa nhăn bằng Botulinum Toxin hiệu quả thế nào?",
-    isShowBadge: false,
-    badgeLabel: "",
-    subTitle:
-      "BS.CKII Nguyễn Lê Trà Mi, giảng viên Bộ môn Da liễu Đại học Y Dược TP.HCM, Đơn vị Da liễu - Thẩm mỹ da",
-    imageUrl: "/images/logo_bai_bao/hinh2.png",
-    fullContent:
-      "https://thanhnien.vn/xoa-nhan-bang-botulinum-toxin-hieu-qua-the-nao-185240621181547026.htm?fbclid=IwZXh0bgNhZW0CMTAAAR2NbpWu9dUDWSvqberVKwqTJkYPxKSG-X177nN0n2l4XrJnP8SedtE87rQ_aem__xLU-WexRLuo2tTK4KiGwg",
-  },
-  {
-    id: 4,
     title: "Chăm sóc da mụn thế nào để tránh tái phát?",
     isShowBadge: false,
     badgeLabel: "",
@@ -5076,7 +5065,7 @@ export const newspaperList = [
       "https://thanhnien.vn/cham-soc-da-mun-the-nao-de-tranh-tai-phat-185240825113859219.htm",
   },
   {
-    id: 5,
+    id: 4,
     title: "Nồng độ interleukin 6 huyết thanh trên bệnh nhân mày đay mạn tính",
     isShowBadge: false,
     badgeLabel: "",
@@ -5087,7 +5076,7 @@ export const newspaperList = [
       "https://nsti.vista.gov.vn/publication/view/nong-do-interleukin-6-huyet-thanh-tren-benh-nhan-may-day-man-tinh-353681.html",
   },
   {
-    id: 6,
+    id: 5,
     title: "Tối ưu hóa điều trị sẹo rỗ bằng RF vi kim và Exosome",
     isShowBadge: false,
     badgeLabel: "",
